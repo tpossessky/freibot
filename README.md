@@ -1,23 +1,15 @@
-####################################################
-#___________              .__  ___.           __   #
-#\_   _____/______   ____ |__| \_ |__   _____/  |_ #
-# |    __) \_  __ \_/ __ \|  |  | __ \ /  _ \   __\#
-# |     \   |  | \/\  ___/|  |  | \_\ (  <_> )  |  #
-# \___  /   |__|    \___  >__|  |___  /\____/|__|  #
-#     \/                \/          \/    	   #
-####################################################
+# Freibot
 
 Integration between Twitch chat and Discord voice
 
-FFMPEG.exe used for audio encoding
+FFMPEG.exe needed in ./freibot for audio encoding
 
 To run:
     0. Make sure Python is in your PATH enviornment variables. 
     1. Open a terminal in ./freibot
     2. 'pip install -r > requirements.txt'
     3. Run with 'python setup.py'
-    4. Any missing package errors can be resolved with 'pip install <package>'  (no arrow brackets in command)
-        For example: Missing package aiofiles, 'pip install aiofiles'
+    4. Any missing package errors can be resolved with 'pip install <package>'  
     5. Step 3
 
 To edit: 
