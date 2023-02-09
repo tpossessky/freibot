@@ -1,7 +1,7 @@
 import logging, os, sys
 from typing import Any
 
-
+# taken from discordpy for consistent log formatting
 class _MissingSentinel:
     __slots__ = ()
 
