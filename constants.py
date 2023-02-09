@@ -1,0 +1,12 @@
+DISCORD_API = ""
+APP_ID = ''
+APP_SECRET = ''
+TARGET_CHANNEL = ''
+TARGET_USER = ''
+TARGET_MESSAGE = ''
+VC_ID = 
+CHAT_ID = 
+CURRENT_DATA = 
+ctx = None
+PATH = ''
+FILES = None
